@@ -1,0 +1,6 @@
+*.csv
+*.pdf
+*.zip
+coap-*/
+h2c-*/
+http1.1-*/
